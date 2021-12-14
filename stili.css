@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+    font-family: 'Montserrat',sans-serif;
+}
+
+.blu {
+    background-color:#4971FF;
+    color: #FFFFFF;
+}
+
+.blu2 {
+    background-color:#4971FF;
+    color: #000000;
+}#fascia-navigazione a {
+    color: #4971FF;
+    text-decoration: #4971FF;
+    font-size: 1.2rem;
+}
